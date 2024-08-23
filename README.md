@@ -1,5 +1,6 @@
 # Eletiva
 # Rhafael
+# Diorgsamuel
 # Luiz Gummy Bear
 # Julia dos Reis
 # Laiane
